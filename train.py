@@ -9,7 +9,7 @@ from torch import nn
 from SSIM import SSIM
 # from DAB_test import MDARNet,MDARNet_v2
 #from MDARNet import NET,Net_test1
-from MDARNet import Net_test1
+from MDARNet import MDARNet
 import torch.optim as optim
 from torch.autograd import Variable
 from utils import findLastCheckpoint,batch_PSNR
