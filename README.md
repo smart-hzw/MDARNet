@@ -18,18 +18,15 @@
 ! [fig1.jpg](./fig1.jpg)
 
 ## Prepare
-install toch 1.10
-install hdf5 2.10.0
-install opencv-python 4.5.4.60
-
-
-
-install lpips 0.1.3
-install tqdm 4.59.0
-install tensorboardX 2.2
-install torchvision 0.11.1
-install scikit-image 0.16.2
-install numpy 1.20.3
+	install toch 1.10
+	install hdf5 2.10.0
+	install opencv-python 4.5.4.60
+	install lpips 0.1.3
+	install tqdm 4.59.0
+	install tensorboardX 2.2
+	install torchvision 0.11.1
+	install scikit-image 0.16.2
+	install numpy 1.20.3
 
 Download the dataset from (链接：https://pan.baidu.com/s/1sNxF4GuZWte-Wjdgd40PDQ 提取码：vxqy)  put the dataset folder into the "IDCGAN/data" folder
 
