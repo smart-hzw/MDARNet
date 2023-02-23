@@ -15,7 +15,7 @@
 	quantitative metrics. The source code can be obtained from https://github.com/smart-hzw/MDARNet. 
 	
 	Index Terms—Single image deraining, Monogenic wavelet transform, Self-calibrated dual attention mechanism, Lightweight residual dense network
-! [fig1.jpg](./fig1.jpg)
+! [fig1.jpg](https://github.com/smart-hzw/MDARNet/blob/main/fig1.jpg)
 
 ## Prepare
 	install toch 1.10
