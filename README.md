@@ -1,19 +1,20 @@
 # MDARNet
 # Multi scale dual attention mechanism residual rain removal network based on monogenic wavelet
-Abstract—Image rain removal is an essential problem of common concern in the fields of image processing and computer vision.
-Existing methods have resorted to deep learning techniques to separate rain streaks from the background by leveraging some 
-prior knowledge. However, the mismatch between the size of the rain streaks during the training and testing phases, especially 
-when large rain streaks are present, frequently leads to unsatisfactory deraining results. To address this issue, we propose a 
-multi-scale self-calibrated dual attention lightweight residual dense deraining network (MDARNet) for better deraining 
-performance. Specifically, the network consists of monogenic wavelet transform-like hierarchy and selfcalibrated dual 
-attention mechanism. With the help of scale-space properties of the monogenic wavelet transform, key features at different 
-scales can be extracted at the same location, which makes it easier to match structural features across scales. The self-calibrated
-double attention mechanism was used as a basic model for enhancing the channel dependence and spatial correlation between each layer 
-component of the monogenic wavelet transform. Thus, the network can establish long-range dependencies and take advantage of rich 
-contextual information and multi-scale redundancy to accommodate rain streaks of different shapes and sizes. Experiments on synthetic
-and real image datasets show that the method outperforms many of the latest single-image deraining methods in terms of visual and 
-quantitative metrics. The source code can be obtained from https://github.com/smart-hzw/MDARNet.
-Index Terms—Single image deraining, Monogenic wavelet transform, Self-calibrated dual attention mechanism, Lightweight residual dense network
+	Abstract—Image rain removal is an essential problem of common concern in the fields of image processing and computer vision. 
+	Existing methods have resorted to deep learning techniques to separate rain streaks from the background by leveraging some 
+	prior knowledge. However, the mismatch between the size of the rain streaks during the training and testing phases, especially 
+	when large rain streaks are present, frequently leads to unsatisfactory deraining results. To address this issue, we propose a 
+	multi-scale self-calibrated dual attention lightweight residual dense deraining network (MDARNet) for better deraining 
+	performance. Specifically, the network consists of monogenic wavelet transform-like hierarchy and self-calibrated dual 
+	attention mechanism. With the help of scale-space properties of the monogenic wavelet transform, key features at different 
+	scales can be extracted at the same location, which makes it easier to match structural features across scales. The self-calibrated
+	double attention mechanism was used as a basic model for enhancing the channel dependence and spatial correlation between each layer 
+	component of the monogenic wavelet transform. Thus, the network can establish long-range dependencies and take advantage of rich 
+	contextual information and multi-scale redundancy to accommodate rain streaks of different shapes and sizes. Experiments on synthetic
+	and real image datasets show that the method outperforms many of the latest single-image deraining methods in terms of visual and 
+	quantitative metrics. The source code can be obtained from https://github.com/smart-hzw/MDARNet. 
+	
+	Index Terms—Single image deraining, Monogenic wavelet transform, Self-calibrated dual attention mechanism, Lightweight residual dense network
 ! [fig1.jpg](./fig1.jpg)
 
 ## Prepare
