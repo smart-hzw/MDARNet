@@ -28,7 +28,7 @@
 	install scikit-image 0.16.2
 	install numpy 1.20.3
 
-Download the dataset from (链接：https://pan.baidu.com/s/1sNxF4GuZWte-Wjdgd40PDQ 提取码：vxqy)  put the dataset folder into the "IDCGAN/data" folder
+Download the dataset from (Link：https://pan.baidu.com/s/1sNxF4GuZWte-Wjdgd40PDQ Password：vxqy)  put the dataset folder into the "IDCGAN/data" folder
 
 ## Training
 * rain100H train
