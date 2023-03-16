@@ -38,7 +38,8 @@ Download the dataset from (Link：https://pan.baidu.com/s/1sNxF4GuZWte-Wjdgd40PD
 * The deraining results will be in "./result". We only provide the baseline for comparison. There exists the gap (0.1-0.2db) between the provided model and the reported values in the paper, which originates in the subsequent fine-tuning of hyperparameters, training processes and constraints.
 	
 ## Testing
-        We will publish test models later
+		Test results can be obtained from this （link：https://pan.baidu.com/s/1fJq9CJL_hlrAK7VSZc_jfQ password：1ehf)
+         	We will publish test models later()
 
 ## Citation
     @article{hao2022multi,
